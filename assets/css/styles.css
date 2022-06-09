@@ -4,11 +4,16 @@
 /* fim resets */
 /* cabecalho */
 @import url(atomos/cabecalho/cabecalho.css);
-@import url(atomos/cabecalho/cabecalho__logo.css);
-@import url(atomos/cabecalho/cabecalho__lista.css);
-@import url(atomos/cabecalho/cabecalho__item.css);
-@import url(atomos/cabecalho/cabecalho__link.css);
+@import url(atomos/cabecalho/cabecalho-logo.css);
+@import url(atomos/cabecalho/cabecalho-lista.css);
+@import url(atomos/cabecalho/cabecalho-item.css);
+@import url(atomos/cabecalho/cabecalho-link.css);
 /* fim cabecalho */
+/* hero */
+@import url(atomos/hero/hero.css);
+@import url(atomos/hero/hero-imagem.css);
+@import url(atomos/hero/hero-titulo.css);
+/* fim hero */
 
 
 
