@@ -1,5 +1,15 @@
+/* resets */
 @import url(resets/normalize.css);
 @import url(resets/reset.css);
+/* fim resets */
+/* cabecalho */
+@import url(atomos/cabecalho/cabecalho.css);
+@import url(atomos/cabecalho/cabecalho__logo.css);
+@import url(atomos/cabecalho/cabecalho__lista.css);
+@import url(atomos/cabecalho/cabecalho__item.css);
+@import url(atomos/cabecalho/cabecalho__link.css);
+/* fim cabecalho */
+
 
 
 
@@ -8,7 +18,7 @@
     --cinza-fundo-receitas: #F0F0F0;
     --cinza-fontes: #8C8888;
     --cinza-roda-pe: #C4C4C4;
-    --Vermelho: #8D0606;
+    --vermelho: #8D0606;
     --branco: #ffffff;
     --preto: #000000;
 }

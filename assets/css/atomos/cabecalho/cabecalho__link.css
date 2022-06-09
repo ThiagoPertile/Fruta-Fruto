@@ -1,0 +1,14 @@
+.cabecalho__link {
+    text-decoration: none;
+    color: var(--cinza-fontes);
+    margin-left: 1rem;
+    text-transform: lowercase;
+}
+
+.cabecalho__link.ativo {
+    color: var(--preto);
+}
+
+.cabecalho__link:hover {
+    border-bottom: 1px  solid var(--preto);
+}
