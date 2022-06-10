@@ -19,14 +19,13 @@
 @import url(atomos/banner/banner-titulo.css);
 @import url(atomos/banner/banner-texto.css);
 /* fim banner */
-/* receitas */
 @import url(atomos/receitas/receitas.css);
 @import url(atomos/receitas/receita.css);
 @import url(atomos/receitas/receita-imagem.css);
 @import url(atomos/receitas/receita-conteudo.css);
 @import url(atomos/receitas/receita-titulo.css);
 @import url(atomos/receitas/receita-descricao.css);
-/* fim receitas */
+@import url(atomos/receitas/receita-botao.css);
 
 
 
@@ -39,5 +38,6 @@
     --vermelho: #8D0606;
     --branco: #ffffff;
     --preto: #000000;
+    --botao-hover: #fce0e0;
 }
 
