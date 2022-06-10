@@ -1,0 +1,5 @@
+.receita__card {
+    background-color: var(--branco);
+    margin: 2rem;
+    width: min-content;
+}
