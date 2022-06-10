@@ -1,0 +1,5 @@
+.receitas {
+    display: flex;
+    background-color: var(--cinza-fundo-receitas);
+    padding: 4rem;
+}
