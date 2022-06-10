@@ -1,0 +1,6 @@
+.banner__titulo {
+    font-family: "Pacifico", cursive;
+    color: var(--vermelho);
+    font-size: 3.188rem;
+    margin-bottom: 2rem;
+}

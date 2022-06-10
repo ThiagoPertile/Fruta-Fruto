@@ -1,0 +1,6 @@
+.banner__texto {
+    font-weight: 300;
+    font-size: 1.75rem;
+    color: var(--cinza-fontes);
+    text-align: center;
+}
